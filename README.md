@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monishchaudhari
 - 👀 I’m interested in iOS App Development
 - 🌱 I’m currently learning swift
-- 📫 How to reach me monishchaudhari0@gmail.com or +919920936383
+- 📫 Reach me at monishchaudhari0@gmail.com or +919920936383
 
 <!---
 monishchaudhari/monishchaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
